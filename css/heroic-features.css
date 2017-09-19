@@ -1,0 +1,43 @@
+/*!
+ * Start Bootstrap - Heroic Features (http://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+.bg-dark {
+  background-color:#ece0ec !important;
+}
+
+
+.card {
+    height: 100%;
+}
+
+.jumbotron {
+  background-image: url(https://images.freepeople.com/is/image/FreePeople/170911-homepageHero-R2C1?$op_high$);
+  background-size: cover;
+  color: white;
+  font-family: courier;
+  padding-top: 180px;
+}
+
+.btn-group-lg>.btn, .btn-lg {
+  background-color: white;
+  color:black;
+  border: none;
+}
+.btn-primary {
+  background-color: white;
+  color:black;
+  border: none;
+}
